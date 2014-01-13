@@ -1,9 +1,8 @@
-
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
 
-#define LOVES_NAME "Nichola"
+#define LOVES_NAME "You"
 
 typedef enum word_kind_e {
     WORD_KIND_NOUN,
